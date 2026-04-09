@@ -1,0 +1,31 @@
+
+try it out----- execute
+
+
+
+
+swagger link
+http://localhost:3000/docs
+
+
+ for auth/login
+ {
+  "email": "student@email.com",
+ 
+}
+
+
+
+
+
+admin se auth..
+
+crete shuttle 
+
+{
+  "name": "Shuttle 5",
+  "route": "KCH to Campus",
+  "capacity": 40,
+  "bookingOpenTime": "08:00",
+  "bookingCloseTime": "08:30"
+}
